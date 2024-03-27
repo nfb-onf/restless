@@ -1,6 +1,6 @@
 __author__ = 'Daniel Lindsley'
 __license__ = 'BSD'
-__version__ = (2, 3, 0)
+__version__ = (2, 3, 1)
 VERSION = '.'.join(map(str, __version__))
 
 
